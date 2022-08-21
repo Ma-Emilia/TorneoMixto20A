@@ -88,6 +88,7 @@ td{
     padding: 1em;
     border-color: rgb(231, 3, 136);
     width:fit-content;
+    font-size: 0.8em;
 }
 .click{
     align-items:right;
